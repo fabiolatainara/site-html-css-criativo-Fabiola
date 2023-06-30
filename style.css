@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(147, 162, 247);
+    background-color: rgb(36, 73, 116);
 }
 
 .principal {
@@ -12,8 +12,8 @@ body {
     height: auto;
     margin: auto;
     padding: 15px;
-    box-shadow: 2px 4px rgba(67, 145, 247, 0.5); /* Substitua os valores red, green, blue e alpha pelos valores desejados */
-    background-color: #ffffff;
+    box-shadow: 2px 4px rgb(3, 38, 51); /* Substitua os valores red, green, blue e alpha pelos valores desejados */
+    background-color: #a8c3ff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -27,14 +27,14 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    border-bottom: #db7171 solid; /* Substitua pela cor desejada com seis dígitos hexadecimais */
+    border-bottom: #000000 solid; /* Substitua pela cor desejada com seis dígitos hexadecimais */
 }
 
 .titulo {
     text-transform: uppercase;
     font-size: 24px;
-    text-shadow: 2px 4px rgba(255, 0, 0, 0.5); /* Substitua os valores red, green, blue e alpha pelos valores desejados */
-    color: #dd9a26;
+    text-shadow: 2px 4px rgba(10, 108, 236, 0.5); /* Substitua os valores red, green, blue e alpha pelos valores desejados */
+    color: #053650;
 }
 
 .secao1 {
