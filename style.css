@@ -12,7 +12,7 @@ body {
     height: auto;
     margin: auto;
     padding: 15px;
-    box-shadow: 2px 4px rgba(255, 0, 0, 0.5); /* Substitua os valores red, green, blue e alpha pelos valores desejados */
+    box-shadow: 2px 4px rgba(67, 145, 247, 0.5); /* Substitua os valores red, green, blue e alpha pelos valores desejados */
     background-color: #ffffff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
